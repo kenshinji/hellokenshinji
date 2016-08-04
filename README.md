@@ -1,4 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/hellokenshinji.svg)](http://badge.fury.io/rb/hellokenshinji)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kenshinji/hellokenshinji/blob/master/LICENSE.txt)
 
 # Hellokenshinji
 
